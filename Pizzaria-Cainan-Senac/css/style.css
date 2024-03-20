@@ -1,0 +1,47 @@
+
+
+header, main{
+    background-color: red;
+    color: white;
+    min-height:auto;
+}
+
+nav{
+    text-align: center;
+    margin-right: 15px;
+}
+
+section{
+    background-color: gray;
+}
+
+.col-10{
+    background-color: white;
+    text-align: left;
+}
+
+
+
+section,.col-10{
+    
+    min-height: 66vh;
+}
+
+header figure img{
+    width: 100px;
+    height: 100px;
+}
+
+figure img{
+    width: 300;
+    height: 300;
+}
+
+
+footer{
+    margin-bottom: 0px;
+    background-color: black;
+    color:white;
+    min-height: 20vh;
+
+}
